@@ -1,0 +1,1118 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.zuraag3 {
+  width: 15px;
+  height: 18px;
+}
+.zuraag111 {
+  width: 15px;
+  height: 15px;
+}
+.zuraag2 {
+  width: 15px;
+  height: 40px;
+}
+.slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.zuraag {
+  width: 15px;
+  height: 15px;
+  display: none;
+}
+
+.back1 {
+  width: 100%;
+  height: 44px;
+}
+.back3 {
+  background-color: #f5f5f7;
+}
+.back2 {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  align-items: center;
+}
+
+.appleicon {
+  width: 30px;
+  height: 44px;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+}
+.text {
+  font-size: 12px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  color: #1d1d1f;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+}
+.back12 {
+  background-color: white;
+  width: 100%;
+  height: 44px;
+}
+.back11 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pda1 {
+  width: 100%;
+  height: 25px;
+  background: #019ffb;
+  background: linear-gradient(
+    90deg,
+    rgba(1, 159, 251, 1) 55%,
+    rgba(228, 76, 187, 1) 100%,
+    rgba(245, 91, 228, 1) 100%,
+    rgb(244, 244, 244) 100%,
+    rgb(218, 148, 63) 100%
+  );
+}
+.harmaf {
+  width: 100%;
+  min-height: 260px;
+  height: auto;
+  display: flex;
+  align-items: center;
+}
+.harmaf1 {
+  width: 100%;
+  min-height: 100px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  padding: 0 75px;
+}
+.harmaf2 {
+  width: 700px;
+  height: 104px;
+  display: flex;
+  padding-left: 140px;
+  align-items: start;
+  justify-content: space-between;
+}
+.ongot {
+  font-size: 44px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  background: -webkit-linear-gradient(#0090f7, #ba62fc, #f2416b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ongoguu {
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  font-size: 44px;
+  color: #6e6e73;
+}
+.haagii {
+  width: 226px;
+  height: 100px;
+  display: flex;
+  align-items: start;
+  flex-direction: row;
+  justify-content: start;
+  flex-wrap: wrap;
+}
+.huugiii {
+  width: 40px;
+  height: 40px;
+}
+.baayaa {
+  font-size: 14px;
+  font-weight: 700;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  color: black;
+}
+.suldee {
+  display: flex;
+  width: 175px;
+  height: 40px;
+  justify-content: start;
+  align-items: start;
+  padding-left: 16px;
+  flex-direction: column;
+  position: relative;
+}
+.deku {
+  color: #0066c0;
+  font-weight: 400;
+  font-size: 14px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding-left: 0%;
+}
+.endoo {
+  width: 40px;
+  height: 40px;
+}
+.suldee2 {
+  padding-left: 56px;
+  width: 300px;
+  padding-top: 0%;
+}
+.anar {
+  width: 200px;
+  height: 100px;
+}
+.ireedui {
+  width: 100%;
+  height: 146px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 45px;
+}
+.ochko {
+  width: 120px;
+  height: 78px;
+}
+.chija {
+  display: flex;
+  flex-direction: column;
+  width: 136px;
+  height: 146px;
+  align-items: center;
+  gap: 3px;
+  transition: transform 0.3s ease;
+}
+.shaazgai {
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+.eba {
+  width: 100%;
+  min-height: 560px;
+  height: auto;
+}
+.ebo {
+  font-size: 24px;
+  font-weight: 700;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  color: #6e6e73;
+  padding-left: 75px;
+  margin-top: 60px;
+  margin-bottom: 24px;
+}
+.ebo1 {
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  background: -webkit-linear-gradient(#0090f7, #ba62fc, #f2416b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.esui {
+  width: 480px;
+  height: 500px;
+  border-radius: 10px;
+  z-index: -1;
+  position: absolute;
+  object-fit: cover;
+}
+.haryaa {
+  display: flex;
+  padding-left: 148px;
+  gap: 20px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.daalaa1 {
+  color: #b64400;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  font-size: 8px;
+  font-weight: 700;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.harkue {
+  width: 480px;
+  height: 500px;
+  display: flex;
+  justify-content: start;
+  flex-shrink: 0;
+  position: relative;
+  flex-direction: column;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.daalaa2 {
+  font-size: 26px;
+  font-weight: 700;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  color: black;
+  padding-left: 30px;
+  padding-top: 1px;
+}
+.daalaa3 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #1d1d1f;
+  padding-left: 30px;
+  padding-top: 10px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+}
+.vande {
+  display: flex;
+  overflow: scroll;
+  gap: 20px;
+  padding-left: 148px;
+}
+.haraldii {
+  width: 313px;
+  height: 500px;
+  flex-shrink: 0;
+  display: flex;
+  padding-top: 65px;
+  background-color: white;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+.haraldii2 {
+  width: 400px;
+  height: 500px;
+  flex-shrink: 0;
+  position: relative;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.esui3 {
+  width: 400px;
+  height: 500px;
+  border-radius: 10px;
+  position: absolute;
+  z-index: -1;
+}
+.esui2 {
+  width: 230px;
+  height: 230px;
+}
+.oooo {
+  font-size: 26px;
+  font-weight: bold;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  color: black;
+  padding-left: 30px;
+  padding-top: 23px;
+}
+.hamar1 {
+  font-size: 12px;
+  color: #b64400;
+  font-weight: bold;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  width: 250px;
+  padding-top: 20px;
+}
+.hamar2 {
+  font-weight: bold;
+  font-size: 18px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  color: black;
+  width: 250px;
+  padding-top: 10px;
+}
+.hamar3 {
+  font-size: 14px;
+  color: #1d1d1f;
+  padding-top: 60px;
+}
+.novsh {
+  display: flex;
+  flex-direction: column;
+  width: 257px;
+  height: 109px;
+}
+.joo {
+  width: 253px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 7px;
+}
+.jojo {
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+  transition: transform 0.2s ease;
+}
+.hamaar1 {
+  font-size: 12px;
+  color: #b64400;
+  font-weight: bold;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  width: 250px;
+  padding-top: 55.5px;
+}
+.hamaar2 {
+  font-weight: bold;
+  font-size: 18px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  color: black;
+  width: 250px;
+  padding-top: 10px;
+}
+.hamaar3 {
+  font-size: 14px;
+  color: #1d1d1f;
+  padding-top: 60px;
+}
+.gachin1 {
+  width: 313px;
+  height: 500px;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+.gachin11 {
+  width: 313px;
+  height: 240px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+.zambaraa {
+  width: 100%;
+  height: 500px;
+  overflow: scroll;
+}
+.harkue77 {
+  width: 400px;
+  height: 500px;
+  display: flex;
+  justify-content: start;
+  flex-shrink: 0;
+  position: relative;
+  flex-direction: column;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.harkue78 {
+  width: 400px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 10px;
+  z-index: -1;
+  position: absolute;
+}
+.ebara {
+  width: 100%;
+  min-height: 196px;
+  height: auto;
+  padding-left: 145px;
+  margin-top: 60px;
+  padding-bottom: 40px;
+}
+.papa {
+  font-size: 26px;
+  font-weight: bold;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  color: black;
+}
+.para {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  gap: 12px;
+  margin-top: 24px;
+}
+.babara {
+  width: auto;
+  padding: 0 20px;
+  height: 40px;
+  border: 1px solid #1d1d1f;
+  border-radius: 20px;
+  background: transparent;
+  color: #1d1d1f;
+  font-size: 14px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  cursor: pointer;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
+}
+
+.store-mobile-link {
+  display: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  color: #1d1d1f;
+  text-decoration: none;
+  cursor: pointer;
+}
+.harkue:hover p {
+  background-color: #0090f7;
+}
+
+.store-mobile-link:hover {
+  color: #0071e3;
+}
+
+/* ===== HOVER EFFECTS ===== */
+.text:hover {
+  color: #0071e3;
+}
+.appleicon:hover {
+  opacity: 0.7;
+}
+.deku:hover {
+  text-decoration: underline;
+}
+.babara:hover {
+  background-color: #1d1d1f;
+  color: white;
+}
+.chija:hover {
+  transform: scale(1.05);
+}
+.harkue:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+}
+.haraldii:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+}
+.haraldii2:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+}
+.harkue77:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+}
+.gachin11:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+}
+.jojo:hover {
+  transform: scale(1.5);
+}
+
+/* ===== TABLET (max-width: 1000px) ===== */
+@media only screen and (max-width: 1000px) {
+  .back2 > .text {
+    display: none;
+  }
+  .store-mobile-link {
+    display: block;
+  }
+  .back2 {
+    justify-content: space-between;
+    padding: 0 16px;
+  }
+  .harmaf {
+    min-height: auto;
+    padding: 20px 0;
+  }
+  .harmaf1 {
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    padding: 0 30px;
+  }
+  .ongoguu {
+    font-size: 28px;
+  }
+  .ongot {
+    font-size: 28px;
+  }
+  .baayaa {
+    font-size: 12px;
+  }
+  .deku {
+    font-size: 12px;
+  }
+  .ireedui {
+    overflow-x: auto;
+    justify-content: flex-start;
+    padding-left: 30px;
+    gap: 16px;
+  }
+  .chija {
+    flex-shrink: 0;
+    width: 110px;
+    height: auto;
+  }
+  .ochko {
+    width: 95px;
+    height: 62px;
+  }
+  .shaazgai {
+    font-size: 12px;
+  }
+  .ebo {
+    font-size: 20px;
+    padding-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 18px;
+  }
+  .eba {
+    min-height: auto;
+    height: auto;
+    padding-bottom: 20px;
+  }
+  .haryaa {
+    padding-left: 30px;
+    gap: 12px;
+  }
+  .harkue {
+    width: 350px;
+    height: 400px;
+  }
+  .esui {
+    width: 350px;
+    height: 400px;
+  }
+  .daalaa1 {
+    font-size: 7px;
+    padding-left: 24px;
+    padding-top: 24px;
+  }
+  .daalaa2 {
+    font-size: 22px;
+    padding-left: 24px;
+  }
+  .daalaa3 {
+    font-size: 15px;
+    padding-left: 24px;
+    padding-top: 8px;
+  }
+  .haraldii {
+    width: 260px;
+    height: 400px;
+    padding-top: 50px;
+  }
+  .esui2 {
+    width: 200px;
+    height: 200px;
+  }
+  .haraldii2 {
+    width: 320px;
+    height: 400px;
+  }
+  .esui3 {
+    width: 320px;
+    height: 400px;
+  }
+  .oooo {
+    font-size: 22px;
+    padding-left: 24px;
+    padding-top: 18px;
+  }
+  .novsh {
+    width: 220px;
+  }
+  .hamar1 {
+    font-size: 11px;
+    width: 220px;
+    padding-top: 14px;
+  }
+  .hamar2 {
+    font-size: 15px;
+    width: 220px;
+    padding-top: 6px;
+  }
+  .hamar3 {
+    font-size: 13px;
+    padding-top: 40px;
+  }
+  .hamaar1 {
+    font-size: 11px;
+    width: 220px;
+    padding-top: 35px;
+  }
+  .hamaar2 {
+    font-size: 15px;
+    width: 220px;
+    padding-top: 6px;
+  }
+  .hamaar3 {
+    font-size: 13px;
+    padding-top: 40px;
+  }
+  .harkue77 {
+    width: 320px;
+    height: 400px;
+  }
+  .harkue78 {
+    width: 320px;
+    height: 400px;
+  }
+  .gachin1 {
+    width: 260px;
+    height: 400px;
+    gap: 12px;
+  }
+  .gachin11 {
+    width: 260px;
+    height: 190px;
+  }
+  .ebara {
+    padding-left: 30px;
+    margin-top: 40px;
+  }
+  .papa {
+    font-size: 22px;
+  }
+  .para {
+    gap: 10px;
+    margin-top: 18px;
+  }
+}
+
+/* ===== MOBILE (max-width: 600px) ===== */
+@media only screen and (max-width: 600px) {
+  .back2 > .text {
+    display: none;
+  }
+  .back2 {
+    justify-content: space-between;
+    padding: 0 16px;
+    gap: 0;
+  }
+  .back12 {
+    height: auto;
+    min-height: 44px;
+    padding: 8px 16px;
+  }
+  .back11 .text {
+    font-size: 11px;
+    text-align: center;
+    line-height: 1.4;
+  }
+  .harmaf {
+    min-height: auto;
+    height: auto;
+    padding: 16px 0;
+  }
+  .harmaf1 {
+    flex-direction: column;
+    gap: 14px;
+    align-items: flex-start;
+    padding: 0 20px;
+  }
+  .ongoguu {
+    font-size: 21px;
+  }
+  .ongot {
+    font-size: 21px;
+  }
+  .baayaa {
+    font-size: 12px;
+  }
+  .deku {
+    font-size: 12px;
+  }
+  .haagii {
+    width: 100%;
+    height: auto;
+  }
+  .suldee2 {
+    padding-left: 0;
+    padding-top: 8px;
+    width: 100%;
+  }
+  .ireedui {
+    overflow-x: auto;
+    justify-content: flex-start;
+    padding-left: 20px;
+    gap: 10px;
+    height: auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .chija {
+    flex-shrink: 0;
+    width: 80px;
+    height: auto;
+  }
+  .ochko {
+    width: 70px;
+    height: 46px;
+  }
+  .shaazgai {
+    font-size: 10px;
+  }
+  .ebo {
+    font-size: 15px;
+    padding-left: 20px;
+    margin-top: 24px;
+    margin-bottom: 12px;
+  }
+  .eba {
+    min-height: auto;
+    height: auto;
+    padding-bottom: 16px;
+  }
+  .haryaa {
+    padding-left: 20px;
+    gap: 8px;
+  }
+  .harkue {
+    width: 260px;
+    height: 340px;
+  }
+  .esui {
+    width: 260px;
+    height: 340px;
+  }
+  .daalaa1 {
+    font-size: 7px;
+    padding-left: 16px;
+    padding-top: 16px;
+  }
+  .daalaa2 {
+    font-size: 17px;
+    padding-left: 16px;
+  }
+  .daalaa3 {
+    font-size: 12px;
+    padding-left: 16px;
+    padding-top: 6px;
+  }
+  .haraldii {
+    width: 200px;
+    height: 340px;
+    padding-top: 30px;
+  }
+  .esui2 {
+    width: 150px;
+    height: 150px;
+  }
+  .haraldii2 {
+    width: 240px;
+    height: 340px;
+  }
+  .esui3 {
+    width: 240px;
+    height: 340px;
+  }
+  .oooo {
+    font-size: 17px;
+    padding-left: 16px;
+    padding-top: 12px;
+  }
+  .novsh {
+    width: 180px;
+    height: auto;
+  }
+  .hamar1 {
+    font-size: 10px;
+    width: 180px;
+    padding-top: 10px;
+  }
+  .hamar2 {
+    font-size: 13px;
+    width: 180px;
+    padding-top: 4px;
+  }
+  .hamar3 {
+    font-size: 12px;
+    padding-top: 20px;
+  }
+  .hamaar1 {
+    font-size: 10px;
+    width: 180px;
+    padding-top: 20px;
+  }
+  .hamaar2 {
+    font-size: 13px;
+    width: 180px;
+    padding-top: 4px;
+  }
+  .hamaar3 {
+    font-size: 12px;
+    padding-top: 20px;
+  }
+  .joo {
+    width: 180px;
+    height: 30px;
+    gap: 5px;
+  }
+  .jojo {
+    width: 10px;
+    height: 10px;
+  }
+  .harkue77 {
+    width: 240px;
+    height: 340px;
+  }
+  .harkue78 {
+    width: 240px;
+    height: 340px;
+  }
+  .gachin1 {
+    width: 200px;
+    height: 340px;
+    gap: 8px;
+  }
+  .gachin11 {
+    width: 200px;
+    height: 164px;
+  }
+  .gachin11 .daalaa2 {
+    font-size: 14px;
+    padding-top: 30px;
+  }
+  .ebara {
+    padding-left: 20px;
+    margin-top: 24px;
+    padding-bottom: 30px;
+  }
+  .papa {
+    font-size: 18px;
+  }
+  .para {
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+  }
+  .babara {
+    font-size: 12px;
+    height: 34px;
+    width: auto;
+    padding: 0 14px;
+  }
+  .pda1 {
+    height: 18px;
+  }
+}
